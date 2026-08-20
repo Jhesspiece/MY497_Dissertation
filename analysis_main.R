@@ -1,9 +1,8 @@
 ################################################################################
 ################################################################################
 # Title: Quantitative Analysis Using the MAPS Database
-# By: Jisung Park
 # For: MSc Inequalities and Social Sciences Dissertation
-# Version: Online (Onedrive)
+# Version: Online
 # Created: 28 July 2026
 # Updated: 17 Aug 2026
 ################################################################################

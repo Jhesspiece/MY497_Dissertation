@@ -1,9 +1,8 @@
 #########################################################################################
 #########################################################################################
 # Title: Attrition Analysis
-# By: Jisung Park
 # For: MSc Inequalities and Social Sciences Dissertation
-# Version: Online (Onedrive)
+# Version: Online
 # Created: 07 July 2026
 # Updated: 12 Aug 2026
 #########################################################################################

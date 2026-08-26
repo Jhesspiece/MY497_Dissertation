@@ -244,7 +244,7 @@ maps <- maps %>%
         ),
       )
 
-# 1.2.5.2.2. Grades (2nd year middle & high school)
+# 1.2.5.2.2. Grades (3rd year middle school & 2nd year high school)
 cols5 <- c("score_01_w5","score_02_w5","score_03_w5","score_04_w5","score_05_w5")
 cols8 <- c("score_01_w8","score_02_w8","score_03_w8","score_04_w8","score_05_w8")
 
@@ -326,7 +326,7 @@ rm(fr_grid, W01, W02, W03, W04, W05, W06, W07, W08, W09, W10, W12,   # Data
 
 ## 2. DATA ANALYSIS
 
-# 2,0. Additional data preparation ---------------------------------------------
+# 2.0. Additional data preparation ---------------------------------------------
 
 # 2.0.1. Subsetting DF for analysis
 maps_analysis <- maps %>%

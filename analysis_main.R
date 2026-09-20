@@ -582,7 +582,6 @@ summary(M2_finsup)
 ## 4. REGRESSION TABLES --------------------------------------------------------
 library(marginaleffects)
 library(modelsummary)
-library(sandwich)
 
 # Shared settings
 stars_codes <- c('*' = .05, '**' = .01, '***' = .001)

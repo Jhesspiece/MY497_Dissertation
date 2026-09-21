@@ -12,7 +12,7 @@ The study asks three linked questions:
 
 1. **Attainment.** What predicts whether a multicultural adolescent attends university at all, and whether they enter a four-year (bachelor's) rather than a junior/associate programme?
 2. **Mechanisms.** To what extent are the effects of family background transmitted through educational aspirations, academic achievement, and social capital?
-3. **Ethnicity** Does (maternal) country of origin have any residual effects after accounting for family background and intermediary mechanisms?
+3. **Ethnicity.** Does (maternal) country of origin have any residual effects after accounting for family background and intermediary mechanisms?
 4. **Gender.** Do these processes operate differently for young men and women?
 
 ## Data
